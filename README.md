@@ -15,6 +15,4 @@
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=kevinsanchez-cat&show_icons=true&locale=en&layout=compact" alt = "kevinsanchez- cat "/> </p>
 
-<p> & nbsp; <img align =" center "src =" https://github-readme-stats.vercel.app/api?username=kevinsanchez-cat&show_icons=true&locale=en "alt = "kevinsanchez-cat" /> </p>
-
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=kevinsanchez-cat&" alt = "kevinsanchez-cat" /> </p>
